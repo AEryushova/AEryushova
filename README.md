@@ -15,3 +15,13 @@
  Hey there!
   <img src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif" width="60px"/>
 </h1>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="350"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a novice QA Engineer <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> from Russia.
