@@ -12,6 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=AEryushova&style=plastic&color=blueviolet"/>
 </div>
 <h1 align="center">
-  Hey there!
+ Hey there!
   <img src="https://media.giphy.com/media/K3kUpFhGsRhw93MQdq/giphy.gif" width="60px"/>
 </h1>
