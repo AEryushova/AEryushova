@@ -24,4 +24,4 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a novice QA Engineer <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> from Russia.
+I am studying QA Engineer <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> from Russia.
