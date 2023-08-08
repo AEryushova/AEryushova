@@ -19,8 +19,7 @@
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Test_Automation.git)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenium](https://github.com/AEryushova/CardOrder.git)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Unit tests](https://github.com/AEryushova/ProductManager)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Team Project unit tests](https://github.com/AEryushova/Team-Project)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> Postman Collection
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman Collection](https://github.com/AEryushova/Postman_Collection)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
