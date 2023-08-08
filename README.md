@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/-Git-1d076e?уstyle=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/-Jira-1d076e?уstyle=for-the-badge&logo=jira&logoColor=097CDB)
-![Java](https://img.shields.io/badge/java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
+![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
 ![Selenium](https://img.shields.io/badge/-Selenium-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA)
