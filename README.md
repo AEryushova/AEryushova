@@ -1,7 +1,7 @@
 ![Anna-Piskaeva-1.gif](https://github.com/AEryushova/AEryushova/blob/main/assert/Anna%20Piskaeva%20(1).gif)
 
 
-## Languages and Tools:
+## Languages and Tools :
 ![Postman](https://img.shields.io/badge/-Postman-1d076e?уstyle=for-the-badge&logo=postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-1d076e?уstyle=for-the-badge&logo=googlechrome)
 ![Git](https://img.shields.io/badge/-Git-1d076e?уstyle=for-the-badge&logo=git)
@@ -12,9 +12,9 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA)
 
-## Test documentation \ Automated Tests:
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> Checklist\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> Test Cases\
+## Test documentation \ Automated Tests :
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Checklist]\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Test Cases]\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman Collection](https://github.com/AEryushova/Postman_Collection)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Automation Implementation Plan](https://github.com/AEryushova/Automation_ImplementationPlan)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Test_Automation.git)\
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="20" width="20" /></a>
+<a href="https://e.mail.ru/compose/?to=eryushovaa@yandex.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="" height="20" width="20" /></a>
 <a href="https://instagram.com/anneryus?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="20" /></a>
 <a href="https://t.me/APi_ann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="20" width="20" /></a>
 </p>
