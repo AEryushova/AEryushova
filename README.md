@@ -13,13 +13,13 @@
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA)
 
 ## Test documentation \ Automated Tests :
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Checklist]\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Test Cases]\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Checklist](https://docs.google.com/spreadsheets/d/1q7dZi1ivcGzeShGkdvLY1sfDpnzkICJvfv8u1ikKDqs/edit?usp=sharing)\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> Test Cases\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman Collection](https://github.com/AEryushova/Postman_Collection)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Automation Implementation Plan](https://github.com/AEryushova/Automation_ImplementationPlan)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Test_Automation.git)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenium](https://github.com/AEryushova/CardOrder.git)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Unit tests](https://github.com/AEryushova/ProductManager)\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Unit tests](https://github.com/AEryushova/ProductManager)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
