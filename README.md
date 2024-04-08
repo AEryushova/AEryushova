@@ -16,7 +16,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-1d076e?уstyle=for-the-badge&logo=jenkins)
 
 ## Test documentation \ Automated Tests :
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman Collection](https://github.com/AEryushova/Postman_Collection)\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman AutoCollection](https://github.com/AEryushova/Postman_AutoCollection)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Automation Implementation Plan](https://github.com/AEryushova/Automation_ImplementationPlan)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Test_Automation.git)\
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenium](https://github.com/AEryushova/CardOrder.git)\
