@@ -4,13 +4,16 @@
 ## Languages and Tools :
 ![Postman](https://img.shields.io/badge/-Postman-1d076e?уstyle=for-the-badge&logo=postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-1d076e?уstyle=for-the-badge&logo=googlechrome)
-![Git](https://img.shields.io/badge/-Git-1d076e?уstyle=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-1d076e?уstyle=for-the-badge&logo=jira&logoColor=097CDB)
+![Swagger](https://img.shields.io/badge/-Swagger-1d076e?уstyle=for-the-badge&logo=swagger)
+![YouTrack](https://img.shields.io/badge/-YouTrack-1d076e?уstyle=for-the-badge&logo=youtrack&logoColor=097CDB)
+![TestIT](https://img.shields.io/badge/-TestIT-1d076e?уstyle=for-the-badge&logo=TestITk&logoColor=097CDB)
+![Elastic](https://img.shields.io/badge/-Elastic-1d076e?уstyle=for-the-badge&logo=elastic)
 ![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
 ![Selenium](https://img.shields.io/badge/-Selenium-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA)
+![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
+![Jenkins](https://img.shields.io/badge/-Jenkins-1d076e?уstyle=for-the-badge&logo=jenkins)
 
 ## Test documentation \ Automated Tests :
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Checklist](https://docs.google.com/spreadsheets/d/1q7dZi1ivcGzeShGkdvLY1sfDpnzkICJvfv8u1ikKDqs/edit?usp=sharing)\
