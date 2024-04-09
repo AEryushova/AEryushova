@@ -7,7 +7,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-1d076e?уstyle=for-the-badge&logo=swagger)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-1d076e?уstyle=for-the-badge&logo=youtrack&logoColor=097CDB)
 ![TestIT](https://img.shields.io/badge/-TestIT-1d076e?уstyle=for-the-badge&logo=TestITk&logoColor=097CDB)
-![Elastic](https://img.shields.io/badge/-Elastic-1d076e?уstyle=for-the-badge&logo=elastic)
+![DBeaver](https://img.shields.io/badge/-DBeaver-1d076e?уstyle=for-the-badge&logo=dbeaver)
 ![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
 ![Selenium](https://img.shields.io/badge/-Selenium-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
