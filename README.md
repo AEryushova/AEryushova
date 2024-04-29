@@ -5,8 +5,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-1d076e?уstyle=for-the-badge&logo=postman)
 ![DevTools](https://img.shields.io/badge/-DevTools-1d076e?уstyle=for-the-badge&logo=googlechrome)
 ![Swagger](https://img.shields.io/badge/-Swagger-1d076e?уstyle=for-the-badge&logo=swagger)
-![YouTrack](https://img.shields.io/badge/-YouTrack-1d076e?уstyle=for-the-badge&logo=youtrack&logoColor=097CDB)
-![TestIT](https://img.shields.io/badge/-TestIT-1d076e?уstyle=for-the-badge&logo=TestITk&logoColor=097CDB)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-1d076e?уstyle=for-the-badge&logo=dbeaver)
 ![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
