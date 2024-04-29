@@ -11,6 +11,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
+![Newman](https://img.shields.io/badge/-Newman-1d076e?уstyle=for-the-badge&logo=newman)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-1d076e?уstyle=for-the-badge&logo=jenkins)
 
 ## Test documentation \ Automated Tests :
