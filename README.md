@@ -8,7 +8,7 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-1d076e?уstyle=for-the-badge&logo=dbeaver)
 ![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
-![Selenium](https://img.shields.io/badge/-Selenid-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
+![Selenium](https://img.shields.io/badge/-Selenide-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA&logoColor=violet)
 ![Git](https://img.shields.io/badge/-Git-1d076e?уstyle=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
