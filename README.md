@@ -34,6 +34,6 @@
 
 <p align="center">
 <a href="https://e.mail.ru/compose/?to=eryushovaa@yandex.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="" height="20" width="20" /></a>
-<a href="https://instagram.com/anneryus?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="20" /></a>
-<a href="https://t.me/APi_ann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="20" width="20" /></a>
+<a href="https://www.instagram.com/anneryus?igsh=MTUybTN0cXloczE2eQ==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="20" width="20" /></a>
+<a href="https://t.me/APiskaeva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="20" width="20" /></a>
 </p>
