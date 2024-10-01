@@ -17,9 +17,8 @@
 
 ## Test documentation \ Automated Tests :
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman AutoCollection](https://github.com/AEryushova/Postman_AutoCollection)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Automation Implementation Plan](https://github.com/AEryushova/Automation_ImplementationPlan)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Test_Automation.git)\
-<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Selenide](https://github.com/AEryushova/Admin_Panel)
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Project AdminPanel](https://github.com/AEryushova/Admin_Panel)\
+<img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Project BuyingTour](https://github.com/AEryushova/Test_Automation.git)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
