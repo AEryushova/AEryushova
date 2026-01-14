@@ -24,9 +24,9 @@
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [UI tests. Project BuyingTour](https://github.com/AEryushova/Test_Automation.git)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEryushova&show_icons=true&theme=nightowl&&rank_icon=github)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEryushova&show_icons=true&theme=nightowl&&rank_icon=github)-->
 
 
 <p align="center">
