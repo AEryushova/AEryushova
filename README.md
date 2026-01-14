@@ -8,12 +8,15 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-1d076e?уstyle=for-the-badge&logo=dbeaver)
 ![Java](https://img.shields.io/badge/Java-1d076e?уstyle=for-the-badge&logo=openjdk&logoColor=red)
 ![JUnit](https://img.shields.io/badge/-Junit-1d076e?уstyle=for-the-badge&logo=junit5)
+![TestNG](https://img.shields.io/badge/-TestNG-1d076e?уstyle=for-the-badge&logo=testng)
 ![Selenium](https://img.shields.io/badge/-Selenide-1d076e?estyle=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-1d076e?уstyle=for-the-badge&logo=IntelliJIDEA&logoColor=violet)
 ![Git](https://img.shields.io/badge/-Git-1d076e?уstyle=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d076e?уstyle=for-the-badge&logo=github)
-![Newman](https://img.shields.io/badge/-Newman-1d076e?уstyle=for-the-badge&logo=newman)
+![Gradle](https://img.shields.io/badge/-Gradle-1d076e?уstyle=for-the-badge&logo=gradle)
+![Maven](https://img.shields.io/badge/-Maven-1d076e?уstyle=for-the-badge&logo=maven)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-1d076e?уstyle=for-the-badge&logo=jenkins)
+![GitLab](https://img.shields.io/badge/-GitLab-1d076e?уstyle=for-the-badge&logo=gitlab)
 
 ## Test documentation \ Automated Tests :
 <img src="https://github.com/AEryushova/AEryushova/blob/main/assert/9-0.png" width="15px"/> [Postman AutoCollection](https://github.com/AEryushova/Postman_AutoCollection)\
@@ -24,11 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEryushova&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEryushova&show_icons=true&theme=nightowl&&rank_icon=github)
-
-
-
-
-
 
 
 <p align="center">
